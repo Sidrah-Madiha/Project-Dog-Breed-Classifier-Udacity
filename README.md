@@ -8,4 +8,4 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 
 
-This is a test line to be deleted later
+Checking for QA purposes
